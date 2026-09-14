@@ -1,1 +1,18 @@
 /* your code */
+thead{
+	background-color:lightblue;
+	padding:2px;
+	margin:2px;
+	color:green;
+}
+
+tbody{
+	background-color:lightgray;
+	
+}
+#odd{
+	background-color:green;
+	color:white;
+}
+	
+}
